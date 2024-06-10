@@ -1,0 +1,6 @@
+# ninja log v5
+4	955	7397257832609286	CMakeFiles/game_of_life.dir/Tile.cpp.obj	3b89aab68a3dc55e
+7	1173	7397257834784170	CMakeFiles/game_of_life.dir/main.cpp.obj	1179e69105805012
+0	151	7397257868723738	build.ninja	a5765e1d69a89bf7
+1362	1556	7397257838595174	game_of_life.exe	ec73beca5408cd97
+10	1362	7397257836669116	CMakeFiles/game_of_life.dir/GameOfLife.cpp.obj	2328a1e6458be62c

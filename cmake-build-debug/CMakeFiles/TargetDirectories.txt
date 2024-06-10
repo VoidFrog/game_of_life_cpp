@@ -1,0 +1,3 @@
+D:/AGH/ISI_semestr2/PP2/game_of_life/cmake-build-debug/CMakeFiles/game_of_life.dir
+D:/AGH/ISI_semestr2/PP2/game_of_life/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/AGH/ISI_semestr2/PP2/game_of_life/cmake-build-debug/CMakeFiles/rebuild_cache.dir
